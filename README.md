@@ -2,6 +2,10 @@
 
 Robots hunter is a FPS game made with Unity Game Engine which can be played on any Windows os.
 
+## Screenshot
+
+![Robots Hunter](https://ibb.co/MPbpHRZ)
+
 ## Installation
 
 There's nothing much to install. Just download the [zip](https://github.com/aarush-paul/robots-hunter/releases/tag/v1.0.0) from the Release page and unzip the contents wherever you want the game to be saved.

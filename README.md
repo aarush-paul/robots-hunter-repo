@@ -16,17 +16,7 @@ To run the game, simply navigate to the ```Robots Hunter``` folder and run the f
 If you ever run into any issues while playing the game or if you want to request a new feature, please create a Issue [here](https://github.com/aarush-paul/robots-hunter/issues).
 
 ## FAQs
-- Q: Can I run this on my phone?
-- A: Not yet, I am still working on the controls to play it on a phone.
-
-- Q: What's FPS?
-- A: FPS stands for First Person Shooter.
-
-- Q: Can I run this game on Linux or MacOs?
-- A: MacOs version will be released on 4th March. Stay tuned!
-
-- Q: What is the answer to life?
-- A: 42
+Please check [FAQ.MD](FOO)
 
 ## License
 [MIT](https://github.com/aarush-paul/robots-hunter/blob/main/LICENSE)

@@ -9,3 +9,4 @@
 
 ## Q: What is the answer to life?
 - A: 42
+![42](https://adidodigital.s3.amazonaws.com/blog%20imagery/42.png)

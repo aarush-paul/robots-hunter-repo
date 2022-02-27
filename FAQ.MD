@@ -5,7 +5,7 @@
 - A: FPS stands for First Person Shooter.
 
 ## Q: Can I run this game on Linux or MacOS?
-- A: MacOS and Linux versions will be released on 4th March. Stay tuned!
+- A: No not yet. Till then you can play the game on the [WebGL Version of the game](foo).
 
 ## Q: What is the answer to life, the universe and everything?
 - A: 42

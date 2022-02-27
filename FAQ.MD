@@ -7,6 +7,6 @@
 ## Q: Can I run this game on Linux or MacOS?
 - A: MacOS and Linux versions will be released on 4th March. Stay tuned!
 
-## Q: What is the answer to life?
+## Q: What is the answer to life, the universe and everything?
 - A: 42
 ![42](https://adidodigital.s3.amazonaws.com/blog%20imagery/42.png)

@@ -12,5 +12,8 @@ To run the game, simply navigate to the ```Robots Hunter``` folder and run the f
 
 ![Robots Hunter.exe](https://i.imgur.com/bKEWaby.png)
 
+## Issues
+If you ever run into any issues while playing the game or if you want to request a new feature, please create a Issue [here](https://github.com/aarush-paul/robots-hunter/issues).
+
 ## License
 [MIT](https://github.com/aarush-paul/robots-hunter/blob/main/LICENSE)

@@ -5,8 +5,7 @@
 - A: FPS stands for First Person Shooter.
 
 ## Q: Can I run this game on Linux or MacOS?
-- A: No not yet. Till then you can play the game on the [WebGL Version of the game](foo).
-
+- A: No not yet. I am working on the WebGL version of the game for cross platform support
 ## Q: What is the answer to life, the universe and everything?
 - A: 42
 ![42](https://adidodigital.s3.amazonaws.com/blog%20imagery/42.png)

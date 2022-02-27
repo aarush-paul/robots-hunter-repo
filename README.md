@@ -4,7 +4,7 @@ Robots hunter is a FPS game made with Unity Game Engine which can be played on a
 
 ## Screenshot
 
-![Robots Hunter](https://ibb.co/MPbpHRZ)
+![Robots Hunter](https://i.ibb.co/wpTCqKB/Untitled.png)
 
 ## Installation
 

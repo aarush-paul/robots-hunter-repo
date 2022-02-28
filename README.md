@@ -7,7 +7,7 @@ Robots hunter is a FPS game made with Unity Game Engine which can be played on a
 ![Robots Hunter](https://i.ibb.co/wpTCqKB/Untitled.png)
 
 ## Important Note
-This build is only for WIndows users. If you are a MacOS or Linux user, you can play the game [here](https://play.unity.com/mg/fps/webglbuild-328).
+This build is only for Windows users. If you are a MacOS or Linux user, you can play the game [here](https://play.unity.com/mg/fps/webglbuild-328).
 
 ## Installation
 

@@ -7,11 +7,11 @@ Robots hunter is a FPS game made with Unity Game Engine which can be played on a
 ![Robots Hunter](https://i.ibb.co/kJtsjZC/Untitled.png)
 
 ## Important Note
-This build is only for Windows users. If you are a MacOS or Linux user, you can play the game [here](https://play.unity.com/mg/fps/webgl-l5p).
+This build is only for Windows users. If you are a MacOS or Linux user, you can play the game [here](foo).
 
 ## Installation
 
-There's nothing much to install. Just download the latest [zip](https://github.com/aarush-paul/robots-hunter/releases/tag/v2.0.0) from the Release page and unzip the contents wherever you want the game to be saved.
+There's nothing much to install. Just download the latest [zip](https://github.com/aarush-paul/robots-hunter/releases/tag/v2.1.0) from the Release page and unzip the contents wherever you want the game to be saved.
 If you want to run older versions of the game, you can find them all in the [Releases](https://github.com/aarush-paul/robots-hunter/releases) page.
 
 ## Usage

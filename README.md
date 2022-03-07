@@ -11,14 +11,12 @@ This build is only for Windows users. If you are a MacOS or Linux user, you can 
 
 ## Installation
 
-There's nothing much to install. Just download the latest [zip](https://github.com/aarush-paul/robots-hunter/releases/tag/v2.2.1) from the Release page and unzip the contents wherever you want the game to be saved.
+There's nothing much to install. Just download the latest [installer](https://github.com/aarush-paul/robots-hunter/releases/tag/v2.2.1) from the Release page and run the instaler.
 If you want to run older versions of the game, you can find them all in the [Releases](https://github.com/aarush-paul/robots-hunter/releases) page.
 
 ## Usage
 
-To run the game, simply navigate to the ```Robots Hunter``` folder and run the file named ```Robots Hunter.exe```.
-
-![Robots Hunter.exe](https://i.ibb.co/qDcb4hN/Untitled.png)
+To run the game, simple search for ```Robots Hunter``` in Start menu and click on it.
 
 ## Issues
 If you ever run into any issues while playing the game or if you want to request a new feature, please create a Issue [here](https://github.com/aarush-paul/robots-hunter/issues).

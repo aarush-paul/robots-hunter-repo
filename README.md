@@ -16,7 +16,7 @@ If you want to run older versions of the game, you can find them all in the [Rel
 
 ## Usage
 
-To run the game, simple search for ```Robots Hunter``` in Start menu and click on it.
+To run the game, simply search for ```Robots Hunter``` in Start menu and click on it.
 
 ## Issues
 If you ever run into any issues while playing the game or if you want to request a new feature, please create a Issue [here](https://github.com/aarush-paul/robots-hunter/issues).

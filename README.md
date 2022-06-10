@@ -24,4 +24,4 @@ If you ever run into any issues while playing the game or if you want to request
 Please check [FAQ.MD](https://github.com/aarush-paul/robots-hunter/blob/main/FAQ.MD)
 
 ## License
-[MIT](https://github.com/aarush-paul/robots-hunter/blob/main/LICENSE)
+[Creative Commons Zero v1.0 Universal](https://github.com/aarush-paul/robots-hunter/blob/main/LICENSE)

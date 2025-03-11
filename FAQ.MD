@@ -10,4 +10,4 @@
 ## Q: What is the answer to life, the universe and everything?
 - A: 42
 
-![42](https://adidodigital.s3.amazonaws.com/blog%20imagery/42.png)
+![42]https://github.com/aarush-paul/robots-hunter-repo/answer.png)
